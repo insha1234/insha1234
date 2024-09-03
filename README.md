@@ -110,7 +110,7 @@
 
 ### GuideEra
 <p align="center">
-  <img src="guideera.png" alt="GuideEra" width="400"/>
+  <img src="GuideEra.png" alt="GuideEra" width="400"/>
 </p>
 <p>GuideEra is a comprehensive educational platform offering textbooks, roadmaps, and resources for various educational streams. This project was built to assist students and learners by providing structured learning materials and guidance to achieve academic excellence.</p>
 
