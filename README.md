@@ -122,7 +122,7 @@
 
 ### Indoor Navigation Robot
 <p align="center">
-  <img src="assets/aurdino1.jpg" alt="Indoor Navigation Robot" width="400"/>
+  <img src="aurdino1.jpg" alt="Indoor Navigation Robot" width="400"/>
 </p>
 <p>Developed an autonomous robot capable of navigating indoor environments with precision. This project leverages Arduino technology and sensors to create a smart navigation system, highlighting my skills in robotics and embedded systems.</p>
 
@@ -132,37 +132,37 @@
 
 ### AICTE Eduskills Virtual Internship
 <p align="center">
-  <img src="assets/Google-for-developers.jpeg" alt="AICTE Eduskills" width="400"/>
+  <img src="Google-for-developers.jpeg" alt="AICTE Eduskills" width="400"/>
 </p>
 <p>During this virtual internship, I focused on AI-ML, gaining hands-on experience in developing machine learning models and implementing AI-driven solutions. This internship allowed me to deepen my understanding of AI technologies and their real-world applications.</p>
 
 ### Bharat Intern
 <p align="center">
-  <img src="assets/bharat-intern.jpeg" alt="AICTE Eduskills" width="400"/>
+  <img src="bharat-intern.jpeg" alt="AICTE Eduskills" width="400"/>
 </p>
 <p>During my virtual internship at Bharat Intern, I successfully completed a comprehensive program in Full Stack Web Development. This internship provided me with an in-depth understanding of both front-end and back-end web development.</p>
 
 ### Smart India Hackathon
 <p align="center">
-  <img src="assets/Smart-India-Hackathon.jpeg" alt="Smart India Hackathon" width="400" />
+  <img src="Smart-India-Hackathon.jpeg" alt="Smart India Hackathon" width="400" />
 </p>
 <p>As a team leader, I spearheaded a full-stack project during the Smart India Hackathon. Our team developed an innovative solution that addressed real-world challenges, showcasing our ability to collaborate and deliver results under tight deadlines.</p>
 
 ### Oasis Infobyte
 <p align="center">
-  <img src="assets/oasis-appreciation.jpeg" alt="Oasis Infobyte" width="400"/>
+  <img src="oasis-appreciation.jpeg" alt="Oasis Infobyte" width="400"/>
 </p>
 <p>Completed an internship at Oasis Infobyte, where I gained practical experience in software development. The internship provided an opportunity to work on diverse projects, enhancing my skills in coding, debugging, and software design.</p>
 
 ### Prodigy Infotech
 <p align="center">
-  <img src="assets/Prodigy-SoftDev.jpeg" alt="Prodigy Infotech" width="400"/>
+  <img src="Prodigy-SoftDev.jpeg" alt="Prodigy Infotech" width="400"/>
 </p>
 <p>My internship at Prodigy Infotech involved working on advanced software development projects. I collaborated with seasoned developers and contributed to key projects, honing my technical skills and gaining industry experience.</p>
 
 ### GlobalLogic
 <p align="center">
-  <img src="assets/GlobalLogicINT.png" alt="GlobalLogic" width="400"/>
+  <img src="GlobalLogicINT.png" alt="GlobalLogic" width="400"/>
 </p>
 <p>At GlobalLogic, I contributed to a full-stack project focused on developing a navigation and service platform for connected vehicles. This experience enhanced my understanding of large-scale software development and the integration of cutting-edge technologies.</p>
 
