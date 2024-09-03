@@ -98,25 +98,25 @@
 
 ### Benchmarking Places
 <p align="center">
-  <img src="assets/benchmarking-places.png" alt="Benchmarking Places" width="400"/>
+  <img src="benchmarking-places.png" alt="Benchmarking Places" width="400"/>
 </p>
 <p>This React-based web application empowers users to explore places and organize them into grid sections, enabling efficient nearby searches for points of interest. Whether planning a trip or exploring your surroundings, Benchmarking Places offers an intuitive interface and robust features for a seamless experience.</p>
 
 ### Amazon-Clone
 <p align="center">
-  <img src="assets/amazon.png" alt="Amazon Clone" width="400"/>
+  <img src="amazon.png" alt="Amazon Clone" width="400"/>
 </p>
 <p>This project replicates the core functionalities of Amazon, providing a familiar shopping experience with a modern UI. It includes features like product browsing, cart management, and checkout processes. The clone serves as a hands-on approach to understanding e-commerce web development.</p>
 
 ### GuideEra
 <p align="center">
-  <img src="assets/guideera.png" alt="GuideEra" width="400"/>
+  <img src="guideera.png" alt="GuideEra" width="400"/>
 </p>
 <p>GuideEra is a comprehensive educational platform offering textbooks, roadmaps, and resources for various educational streams. This project was built to assist students and learners by providing structured learning materials and guidance to achieve academic excellence.</p>
 
 ### GL Tracker
 <p align="center">
-  <img src="assets/GLTracker.png" alt="GL Tracker" width="400"/>
+  <img src="GLTracker.png" alt="GL Tracker" width="400"/>
 </p>
 <p>The GL Tracker is an intern tracking system that showcases my full-stack development skills. It includes features like intern registration, progress tracking, and report generation, providing a complete solution for managing internship programs efficiently.</p>
 
