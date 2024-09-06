@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/_.inssshhh._"><img src="https://img.shields.io/twitter/follow/muskanarya22?label=Follow%20me&style=social" alt="Twitter" width="120"></a>
+  <a href="https://twitter.com/_.inssshhh._"><img src="https://img.shields.io/twitter/follow/Insha_khan911?label=Follow%20me&style=social" alt="Twitter" width="120"></a>
   <a href="https://www.linkedin.com/in/insha-khan-765023276/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" width="120"></a>
   <a href="https://www.instagram.com/_.inssshhh._/"><img src="https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="120"></a>
 
